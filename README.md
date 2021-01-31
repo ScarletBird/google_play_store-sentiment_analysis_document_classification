@@ -1,0 +1,1 @@
+Study made on the Google Play Reviews dataset, using Sentiment analysis to predict whether the preview is good, neutral or bad, and using document classification to predict which review belong to which app.
